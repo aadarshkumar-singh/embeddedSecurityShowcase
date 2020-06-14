@@ -103,8 +103,8 @@ static void encrypt_with_symmetric_ciphers(const uint8_t *key, size_t key_len)
         printf("Failed to finish cipher operation\n");
         return;
     }
-
-	for (uint8_t i = 0; i<block_size; i++)
+	pc.printf("INP:\n");
+	for (uint8_t i = 0; i<32; i++)
 	{
 		pc.putc(plaintext[i]);
 	}
@@ -117,7 +117,7 @@ static void encrypt_with_symmetric_ciphers(const uint8_t *key, size_t key_len)
 	}
 	pc.printf("o:\n");
 
-	for (uint8_t i = 0; i<block_size; i++)
+	for (uint8_t i = 0; i<32; i++)
 	{
 
 		pc.putc(output[i]);
