@@ -1,0 +1,1 @@
+python .\CreatingPolicy.py && python .\KeyGeneration.py && python .\ProvisioningPackets.py && python .\EntranceExam.py

@@ -1,0 +1,284 @@
+package id4jfujkhovihjjkhp96k5e;
+
+/**
+@version 2.0
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeidj6zifkhovihjjkhovkn9z:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit5:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu10:oiref><oihard>
+@__modelType reference 
+*/
+class reference11 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit12:oiref><oihard>
+@__modelType reference 
+*/
+class reference13 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit22:oiref><oihard>
+@__modelType reference 
+*/
+class reference23 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu24:oiref><oihard>
+@__modelType reference 
+*/
+class reference25 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit42:oiref><oihard>
+@__modelType reference 
+*/
+class reference43 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit48:oiref><oihard>
+@__modelType reference 
+*/
+class reference49 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit58:oiref><oihard>
+@__modelType reference 
+*/
+class reference59 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit62:oiref><oihard>
+@__modelType reference 
+*/
+class reference63 {
+}
+/**
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid5yz8mkhovihjjkhp8x9yu:oiref><oihard>
+@__modelType reference 
+*/
+class reference66 {
+}
+}/**
+@__tags
+@shapeType ActivityDiagram 
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAACc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAXXdzPwAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0RFU0tUT1AtNUxONU01OHQA
+DVN0YXRlTWFjaGluZTN0AAVBZG1pbnhzcQB+AAIAAAF17UAQAHNxAH4ABQAAAAJ3BAAAAApzcQB+
+AAd0AA9ERVNLVE9QLTVMTjVNNTh0AA1EZWZmaWVIZWxtYW5udAAFQWRtaW5zcQB+AAd0AA9ERVNL
+VE9QLTVMTjVNNTh0AApFbmNyeXB0aW9udAAFQWRtaW54eA==
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+
+
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu10:oiref>=140,260,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit22:oiref>=140,530,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid5yz8mkhovihjjkhp8x9yu:oiref>=230,990,15,15,1:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit48.linkid1rdb2khovihjjkhp8qt1p:oiref>=235,670,235,710:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu24.linkidfb6u3khovihjjkhp8eno7:oiref>=235,490,235,530:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit5:oiref>=140,170,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit5.linkid8jiljkhovihjjkhp8h7ir:oiref>=235,220,235,260:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeidj6zifkhovihjjkhovkn9z.linkidczkr3khovihjjkhovldur:oiref>=229,42,229,69:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit62.linkid8rfr0khovihjjkhp8stpu:oiref>=235,850,235,890:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu.linkidfb6u3khovihjjkhp8eno7:oiref>=234,132,234,170:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit58:oiref>=140,890,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit62:oiref>=140,800,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu24:oiref>=140,440,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit42:oiref>=140,710,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit48:oiref>=140,620,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu10.linkidfb6u3khovihjjkhp8eno7:oiref>=235,310,235,350:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit12:oiref>=140,350,190,50,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit42.linkid3mr46khovihjjkhp8qzf4:oiref>=235,760,235,800:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit12.linkidj04m2khovihjjkhp8h1i4:oiref>=235,400,235,440:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit58.linkid83oapkht8zlrwkht9knh0:oiref>=238,940,238,990:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit58.linkid3y94jkhovihjjkhp8t7h4:oiref>=235,940,235,980:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeidj6zifkhovihjjkhovkn9z.linkid9oqu7khovihjjkhp8eedn:oiref>=229,42,229,80:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu:oiref>=140,80,189,52,0:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeidj6zifkhovihjjkhovkn9z:oiref>=223,30,12,12,1:oigroup>
+<oigroup:<oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit22.linkid5aht6khovihjjkhp8q2lo:oiref>=235,580,235,620:oigroup>
+
+*/
+class __positions {
+}
+/**
+@shapeType StartState
+@__modelType node
+@name StartState1 
+*/
+class nodeidj6zifkhovihjjkhovkn9z {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu:oiref><oihard> 
+*/
+class linkid9oqu7khovihjjkhp8eedn {
+}
+}
+/**
+@shapeType Activity
+@__modelType node
+@name Intialize crypto hardware
+*/
+class nodeid74o6hkhovihjjkhp8c7wu {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit5:oiref><oihard> 
+*/
+class linkidfb6u3khovihjjkhp8eno7 {
+}
+}
+/**
+@shapeType Activity
+@__modelType node
+@name Get the data for signing
+*/
+class nodeid3gjcnkhovihjjkhp8eit5 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu10:oiref><oihard> 
+*/
+class linkid8jiljkhovihjjkhp8h7ir {
+}
+}
+/**
+@shapeType Activity
+@__modelType node
+@name Select hashing algorithm and its size
+*/
+class nodeid74o6hkhovihjjkhp8c7wu10 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit12:oiref><oihard> 
+*/
+class linkidfb6u3khovihjjkhp8eno7 {
+}
+}/**
+@shapeType Activity
+@__modelType node
+@name Select signature parameters (ECDSA)
+*/
+class nodeid3gjcnkhovihjjkhp8eit12 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid74o6hkhovihjjkhp8c7wu24:oiref><oihard> 
+*/
+class linkidj04m2khovihjjkhp8h1i4 {
+}
+}/**
+@shapeType Activity
+@__modelType node
+@name Use same handle to obtain public key
+*/
+class nodeid3gjcnkhovihjjkhp8eit22 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit48:oiref><oihard> 
+*/
+class linkid5aht6khovihjjkhp8q2lo {
+}
+}/**
+@shapeType Activity
+@__modelType node
+@name Generate signature after creating a handle
+*/
+class nodeid74o6hkhovihjjkhp8c7wu24 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit22:oiref><oihard> 
+*/
+class linkidfb6u3khovihjjkhp8eno7 {
+}
+}/**
+@shapeType Activity
+@__modelType node
+@name Select same hashing algorithm
+*/
+class nodeid3gjcnkhovihjjkhp8eit42 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit62:oiref><oihard> 
+*/
+class linkid3mr46khovihjjkhp8qzf4 {
+}
+}/**
+@shapeType Activity
+@__modelType node
+@name Export public key and generated signature.
+*/
+class nodeid3gjcnkhovihjjkhp8eit48 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit42:oiref><oihard> 
+*/
+class linkid1rdb2khovihjjkhp8qt1p {
+}
+}/**
+@shapeType Activity
+@__modelType node
+@name Generate PASS or FAIL
+*/
+class nodeid3gjcnkhovihjjkhp8eit58 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid5yz8mkhovihjjkhp8x9yu:oiref><oihard> 
+*/
+class linkid83oapkht8zlrwkht9knh0 {
+}
+}/**
+@shapeType Activity
+@__modelType node
+@name Select same algorithm (ECDSA)
+*/
+class nodeid3gjcnkhovihjjkhp8eit62 {
+/**
+@shapeType TransitionLink
+@__modelType link
+@__ref <oiref:design#Class#id4jfujkhovihjjkhp96k5e.nodeid3gjcnkhovihjjkhp8eit58:oiref><oihard> 
+*/
+class linkid8rfr0khovihjjkhp8stpu {
+}
+}
+/**
+@shapeType EndState
+@__modelType node
+@name EndState1 
+*/
+class nodeid5yz8mkhovihjjkhp8x9yu {
+}
